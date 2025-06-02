@@ -23,7 +23,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/thenuka-ubayasena" target="_blank">
+  <a href="https://www.linkedin.com/in/thenuka-ubayasena-655412212/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/thenuka.dinujaya.984963/" target="_blank">
@@ -35,7 +35,7 @@
   <a href="https://kaggle.com/thenukadinujaya" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/c/@lankanvibes2023" target="_blank">
+  <a href="https://www.youtube.com/@lankanvibes2023" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
@@ -45,7 +45,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,flask,spring,tailwind,html,css,bootstrap,mysql,mongodb,nodejs,git,firebase,flutter,kotlin,dart,pytorch,tensorflow,scikit-learn,seaborn,pandas,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,flask,spring,tailwind,html,css,bootstrap,mysql,mongodb,nodejs,git,firebase,flutter,kotlin,dart,pytorch,tensorflow,postman,figma" />
 </p>
 
 ---
