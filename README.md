@@ -1,7 +1,7 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 100px></p>
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 250px></p>
 
-<h1 align="center">Hi there 👋, I'm Thenuka Dinujaya Ubayasena</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer | 🇱🇰 Sri Lanka</h3>
+<h1 align="center">Hi there 👋, I'm Thenuka Ubayasena</h1>
+<h3 align="center">🚀 Passionate Full-Stack Developer | Sri Lanka</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thenukaubayasena&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
