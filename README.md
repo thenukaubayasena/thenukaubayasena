@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi there 👋 I'm Thenuka Dinujaya Ubayasena
 
-<!--
-**thenukaubayasena/thenukaubayasena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Software Engineering undergraduate passionate about building impactful, user-friendly software solutions.  
+💡 Currently developing a **smart education guidance platform** to assist Sri Lankan students with A/L stream selection and university recommendations using **Machine Learning** and **Conversational AI**.
 
-Here are some ideas to get you started:
+🔧 Tech Stack:
+- **Languages:** Java, Python, JavaScript, TypeScript
+- **Frameworks:** Spring Boot, Flask, React
+- **Tools & Libraries:** Scikit-learn, XGBoost, Pandas, Sentence-BERT, Tailwind CSS
+- **Databases:** MySQL, Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Areas of Interest:
+- Educational Recommender Systems
+- Full-Stack Web Development
+- Natural Language Processing (NLP)
+- Applied Machine Learning
+
+📌 Highlights:
+- Built an **A/L Stream Recommendation System** using a stacking ML model trained on student preferences and interests.
+- Developed a **University Guidance Chatbot** powered by semantic search and skill-based matching.
+- Strong foundation in software engineering principles, with hands-on experience in data preprocessing, API integration, and end-to-end ML pipelines.
+
+📫 Let's connect!
+- 📧 Email: thenukaubayasena@gmail.com
+- 🌐 Portfolio: *Coming soon*
+- 🐦 Twitter/X: [@thenukaubayasena](https://twitter.com/thenukaubayasena)
+
+---
+
+_“Turning ideas into solutions that empower students to make smarter academic choices.”_
