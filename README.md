@@ -1,7 +1,9 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 250px></p>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width=250px>
+</p>
 
 <h1 align="center">Hi there 👋, I'm Thenuka Ubayasena</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer | UI/UX Designer | Sri Lanka</h3>
+<h3 align="center">🚀 Project Manager Intern | Sri Lanka</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thenukaubayasena&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -11,9 +13,10 @@
 ---
 
 ### 🧠 About Me
-- 🔭 Currently working on **Figma Designs**
-- 🌱 Learning **Spring Boot**, **AWS**, and **Figma**
-- 💬 Ask me about **Java**
+- 💼 Currently working as a **Project Manager Intern @ Olee AI**
+- 🔭 Building **Figma Designs** & full-stack applications
+- 🌱 Learning **Spring Boot**, **AWS**, and **Agile Project Management**
+- 💬 Ask me about **Java**, **Project Coordination**, and **UI/UX**
 - 📫 Reach me at **ubayasenat@gmail.com**
 - 🧑‍💻 All my work is on [GitHub](https://github.com/thenukaubayasena)
 - ⚡ Fun Fact: You can call me **PODDE**
@@ -43,7 +46,6 @@
 ---
 
 ### 🛠️ Languages & Tools
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,react,flask,spring,tailwind,html,css,bootstrap,mysql,mongodb,nodejs,git,firebase,flutter,kotlin,dart,pytorch,tensorflow,postman,figma,canva" />
 </p>
@@ -51,7 +53,6 @@
 ---
 
 ### 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thenukaubayasena&show_icons=true&theme=github_dark" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenukaubayasena&layout=compact&theme=github_dark" alt="Top Languages" height="180"/>
@@ -60,8 +61,4 @@
 ---
 
 ### 💡 Quote
-
 > *"Strive for progress, not perfection."*
-
----
-
