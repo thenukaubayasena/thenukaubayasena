@@ -14,9 +14,6 @@
 
 ### 🧠 About Me
 - 💼 Currently working as a **Project Manager Intern @ Olee AI**
-- 🔭 Building **Figma Designs** & full-stack applications
-- 🌱 Learning **Spring Boot**, **AWS**, and **Agile Project Management**
-- 💬 Ask me about **Java**, **Project Coordination**, and **UI/UX**
 - 📫 Reach me at **ubayasenat@gmail.com**
 - 🧑‍💻 All my work is on [GitHub](https://github.com/thenukaubayasena)
 - ⚡ Fun Fact: You can call me **PODDE**
